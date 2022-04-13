@@ -1,23 +1,25 @@
-12 : 서버프로그램 구현 - MVC 구조 : https://wiken.io/ken/4158
+13 : 서버프로그램 구현 - MVC 구조 : https://wiken.io/ken/4788
 
-11 : UI 구현 - css media query : https://wiken.io/ken/4142
+12 : UI 구현 - css media query : https://wiken.io/ken/4787
 
-10 : 화면 구현 - css position : https://wiken.io/ken/4155
+11 : 화면 구현 - css position : https://wiken.io/ken/4417
 
-9 : 화면 설계 - 화면 설계 개념 : https://wiken.io/ken/4168
+10 : 화면 설계 - 화면 설계 개념 : https://wiken.io/ken/4410
 
-8 : SQL응용 - B+ 트리 인덱스 : https://wiken.io/ken/4098
+9 : SQL응용 - B+ 트리 인덱스 : https://wiken.io/ken/4405
 
-7 : SQL활용 - 자주 사용되는 DDL, DCL, DML : https://wiken.io/ken/4398
+8 : SQL활용 - 자주 사용되는 DDL, DCL, DML : https://wiken.io/ken/4398
 
-6 : 데이터베이스 구현 - 데이터 모델링 : https://wiken.io/ken/4326
+7 : 데이터베이스 구현 - 데이터 모델링 : https://wiken.io/ken/4326
 
-5 : 애플리케이션 설계 - UML : https://wiken.io/ken/4373
+6 : 애플리케이션 설계 - UML : https://wiken.io/ken/4373
 
-4 : 요구사항 확인 - 사용자 요구사항, 시스템 요구사항 : https://wiken.io/ken/4372
+5 : 요구사항 확인 - 사용자 요구사항, 시스템 요구사항 : https://wiken.io/ken/4372
 
-3 : 임베디드 애플리케이션 구현 - 우리가 사용중인 임베디드 어플리케이션 5종 : https://wiken.io/ken/4306
+4 : 임베디드 애플리케이션 구현 - 우리가 사용중인 임베디드 어플리케이션 5종 : https://wiken.io/ken/4306
 
-2 : 펌웨어 구현 - 임베디드와 펌웨어 차이 : https://wiken.io/ken/4305
+3 : 펌웨어 구현 - 임베디드와 펌웨어 차이 : https://wiken.io/ken/4305
 
-1 : 프로그래밍 언어 활용 - 자바의 다형성 : https://wiken.io/ken/3814
+2 : 프로그래밍 언어 활용 - 자바의 다형성 : https://wiken.io/ken/3814
+
+1 : 애플리케이션 테스트 수행
